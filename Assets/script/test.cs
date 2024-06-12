@@ -5,6 +5,7 @@ using UnityEngine;
 public class test : MonoBehaviour
 {
     int test1 = 1;
+    int test2 = 2;
     // Start is called before the first frame update
     void Start()
     {
